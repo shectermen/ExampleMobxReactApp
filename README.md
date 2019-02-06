@@ -1,2 +1,0 @@
-# ExampleMobxReactApp
-Created with CodeSandbox
